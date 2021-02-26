@@ -1,0 +1,13 @@
+H:\Develop\Interview\composition1-csharp\composition1-csharp\bin\Debug\netcoreapp3.1\composition1-csharp.exe
+H:\Develop\Interview\composition1-csharp\composition1-csharp\bin\Debug\netcoreapp3.1\composition1-csharp.deps.json
+H:\Develop\Interview\composition1-csharp\composition1-csharp\bin\Debug\netcoreapp3.1\composition1-csharp.runtimeconfig.json
+H:\Develop\Interview\composition1-csharp\composition1-csharp\bin\Debug\netcoreapp3.1\composition1-csharp.runtimeconfig.dev.json
+H:\Develop\Interview\composition1-csharp\composition1-csharp\bin\Debug\netcoreapp3.1\composition1-csharp.dll
+H:\Develop\Interview\composition1-csharp\composition1-csharp\bin\Debug\netcoreapp3.1\composition1-csharp.pdb
+H:\Develop\Interview\composition1-csharp\composition1-csharp\obj\Debug\netcoreapp3.1\composition1-csharp.csprojAssemblyReference.cache
+H:\Develop\Interview\composition1-csharp\composition1-csharp\obj\Debug\netcoreapp3.1\composition1-csharp.AssemblyInfoInputs.cache
+H:\Develop\Interview\composition1-csharp\composition1-csharp\obj\Debug\netcoreapp3.1\composition1-csharp.AssemblyInfo.cs
+H:\Develop\Interview\composition1-csharp\composition1-csharp\obj\Debug\netcoreapp3.1\composition1-csharp.csproj.CoreCompileInputs.cache
+H:\Develop\Interview\composition1-csharp\composition1-csharp\obj\Debug\netcoreapp3.1\composition1-csharp.dll
+H:\Develop\Interview\composition1-csharp\composition1-csharp\obj\Debug\netcoreapp3.1\composition1-csharp.pdb
+H:\Develop\Interview\composition1-csharp\composition1-csharp\obj\Debug\netcoreapp3.1\composition1-csharp.genruntimeconfig.cache
